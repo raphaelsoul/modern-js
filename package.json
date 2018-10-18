@@ -1,8 +1,8 @@
 {
-  "name": "js-libp3p",
+  "name": "modern-js",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@git.geilcode.com:raphaelsoul/js-libp3p.git",
+  "repository": "git@github.com:raphaelsoul/modern-js.git",
   "author": "raphaelsoul <raphaelsoul@163.com>",
   "license": "MIT",
   "scripts": {
